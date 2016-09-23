@@ -1,0 +1,16 @@
+{
+  "name": "js-tdd-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Andrew Vye",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "jasmine": "^2.5.2",
+    "mocha": "^3.0.2"
+  }
+}
