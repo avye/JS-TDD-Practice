@@ -5,6 +5,9 @@ module.exports = function(grunt) {
     // ********** FOR ES5 **********
     // mochaTest: {
     //   test: {
+    //     options: {
+    //       reporter: 'spec'
+    //     }
     //     src: ['ES5/spec/**/*.js']
     //   }
     // }

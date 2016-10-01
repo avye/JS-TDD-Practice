@@ -1,8 +1,7 @@
 {
   "name": "js-tdd-practice",
   "version": "1.0.0",
-  "description": "A boilerplate setup for practicing TDD with toy problems",
-  "main": "index.js",
+  "description": "A boilerplate setup for practicing TDD/BDD with toy problems",
   "scripts": {
     "test": "grunt test"
   },
